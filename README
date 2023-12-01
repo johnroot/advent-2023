@@ -1,0 +1,2 @@
+To execute:
+npx esrun -- <script file>
