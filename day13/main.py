@@ -19,7 +19,7 @@ def find_symmetry(pattern, max_diff):
             y2 += 1
 
         if (x2 == -1 or y2 == len(pattern)) and diff == max_diff:
-            return x + 1
+            return y
     
     return None
 
