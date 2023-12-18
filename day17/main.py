@@ -1,7 +1,6 @@
 import os
 import sys
 import heapq
-from itertools import product
 from enum import IntEnum
 
 Direction = IntEnum('Direction', ['UP', 'RIGHT', 'DOWN', 'LEFT'])
