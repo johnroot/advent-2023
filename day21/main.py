@@ -1,5 +1,4 @@
 import os
-import sys
 
 def go(x, y, garden_map):
     max_x = len(garden_map)
